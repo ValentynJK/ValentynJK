@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ValentynJK
+- 👀 I’m interested in web-delevoping and e-commerce software
+- 🌱 I’m currently learning JS, HTML&CSS, TTD and React
+- 💞️ I’m looking for opportunities to dive into developers enviroment
+- 📫 How to reach me valentynejk@gmail.com
