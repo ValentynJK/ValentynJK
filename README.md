@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ValentynJK
 - 👀 I’m interested in web-delevoping and e-commerce software
-- 🌱 I’m currently learning JS, HTML&CSS, TTD and React
-- 💞️ I’m looking for opportunities to dive into developers enviroment
-- 📫 How to reach me valentynejk@gmail.com
+- 🌱 I have hands-on experience and deployed projects using JavaScript, TypeScript, React, Redux, AJAX, Node, REST API and Responsive Web Design.
+- 💞️ I am very passionate about my journey of becoming a full-stack software
+- 📫 How to reach me valentynejk@gmail.com or Linkedin[https://www.linkedin.com/in/valentyn-kolesnichenko/]
